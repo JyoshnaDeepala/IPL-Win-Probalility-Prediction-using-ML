@@ -34,3 +34,7 @@ Jyoshna Deepala
 
 
 ![](me.jpg) 
+
+[Joshna Deepala]
+can find me on
+(https://www.linkedin.com/in/jyoshna-deepala-56b7211a7/)

@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 
 ## preview
 
-![In a Bit :) ](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![In a Bit :) ](ss.png)
 
 
 ## Acknowledgements

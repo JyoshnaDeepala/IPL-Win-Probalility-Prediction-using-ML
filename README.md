@@ -12,16 +12,23 @@ here is the live demo of the application.
 https://ipl-win-probability-predicto.herokuapp.com/
 
 
-## DataSet
+
+
+## preview
+
+![In a Bit :) ](ss.png)
+
+
+
+
+
+
+## DataSource
 
 data sets used in this project are imported from Kaggle.
 
 links are mentioned here:
 https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
-
-## preview
-
-![In a Bit :) ](ss.png)
 
 
 ## Acknowledgements

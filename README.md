@@ -8,6 +8,7 @@ This web application uses the same type of analysis to make predictions based on
 ## Demo
 
 here is the live demo of the application.
+https://ipl-win-probability-predicto.herokuapp.com/
 
 
 ## DataSet

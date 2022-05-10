@@ -8,8 +8,6 @@ https://ipl-win-probability-predicto.herokuapp.com/
 
 helps in betting by pridicting the win probability of both teams using machine learning.
 
-- []( ) The model has been trained based on 756 matches played from the start of the ipl.
-- []( )It has records of 1,56,826 balls played.
 
 
 
@@ -33,7 +31,9 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 
 
 ## OverView
-
+ 
+ - []( ) The model has been trained based on 756 matches played from the start of the ipl.
+ - []( )It has records of 1,56,826 balls played.
  - []( )
  - [ ]( )
  - [ ]( )

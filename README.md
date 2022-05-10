@@ -25,19 +25,20 @@ helps in betting by pridicting the win probability of both teams using machine l
 ## DataSource
 
 data sets used in this project are imported from Kaggle.
-
-links are mentioned here:
+Images are imported from google images. 
+links for dataset:
 https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 
 
 ## OverView
  
  - []( ) The model has been trained based on 756 matches played from the start of the ipl.
- - []( )It has records over 1,56,826 balls played.
+ - []( ) It has records over 1,56,826 balls played.
  - []( ) logestic regression is giving 0.8 percentage accuracy while random forest giving 0.95.even though random forest is giving high accuracy ,as we took out put in the form of probability, logistic regression gives reasonable percentage.
-  
+ - []( ) streamlit gives easiest built-in functions for making interfaces with python. 
+
 #### deployment 
-I deployed my this application using heroku. 
+I deployed this application using heroku. 
 1. A procfile which contains the statements for streamlit to run
 2. A requirements.txt file which contains required packages on the server
 3. Setup.sh file which contains comands to interact with server.

@@ -23,9 +23,8 @@ helps in betting by pridicting the win probability of both teams using machine l
 
 
 ## DataSource
-
-data sets used in this project are imported from Kaggle.
-Images are imported from google images. 
+-[]( )Data sets used in this project are imported from Kaggle.
+-[]( )Images are imported from google images. 
 links for dataset:
 https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 

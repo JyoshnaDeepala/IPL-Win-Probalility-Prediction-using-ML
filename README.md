@@ -11,9 +11,6 @@ https://ipl-win-probability-predicto.herokuapp.com/
 - []( ) The model has been trained based on 756 matches played from the start of the ipl.
 - []( )It has records of 1,56,826 balls played.
 
-here is the live demo of the application.
-
-https://ipl-win-probability-predicto.herokuapp.com/
 
 
 

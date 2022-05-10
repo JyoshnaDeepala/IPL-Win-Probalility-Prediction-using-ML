@@ -34,10 +34,8 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
  
  - []( ) The model has been trained based on 756 matches played from the start of the ipl.
  - []( )It has records over 1,56,826 balls played.
- - []( )
- - [ ]( )
- - [ ]( )
-
+ 
+  
 ## Team
 
 Jyoshna Deepala

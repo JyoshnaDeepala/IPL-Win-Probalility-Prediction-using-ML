@@ -50,6 +50,7 @@ Needed for deployment.
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2667/PNG/128/jupyter_app_icon_161280.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/45109972?v=4"></code>
+<code><img height="30" src="https://pandas.pydata.org/static/img/pandas.svg"></code>
 ## Team
 
 Jyoshna Deepala

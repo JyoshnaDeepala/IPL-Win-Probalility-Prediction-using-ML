@@ -43,6 +43,8 @@ I deployed this application using heroku.
 3. Setup.sh file which contains comands to interact with server.
 Needed for deployment.
 
+## Technologies Used
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## Team
 

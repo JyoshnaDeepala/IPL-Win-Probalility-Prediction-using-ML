@@ -48,6 +48,7 @@ Needed for deployment.
 <code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2667/PNG/128/jupyter_app_icon_161280.png"></code>
 ## Team
 
 Jyoshna Deepala

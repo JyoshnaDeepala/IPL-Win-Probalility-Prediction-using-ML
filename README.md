@@ -51,7 +51,7 @@ Needed for deployment.
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2667/PNG/128/jupyter_app_icon_161280.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/45109972?v=4"></code>
 <code><img height="30" src="https://pandas.pydata.org/static/img/pandas.svg"></code>
-<code><img  height="30" src="https://cdn.iconscout.com/icon/free/png-64/heroku-10-1175213.png"></code>
+<code><img  height="30" src="https://cdn.iconscout.com/icon/free/png-64/heroku-8-1175211.png"></code>
 ## Team
 
 Jyoshna Deepala

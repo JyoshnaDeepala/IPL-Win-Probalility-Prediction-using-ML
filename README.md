@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
  
  - []( ) The model has been trained based on 756 matches played from the start of the ipl.
  - []( ) It has records over 1,56,826 balls played.
- - []( ) logestic regression is giving 0.8 percentage accuracy while random forest giving 0.95.even though random forest is giving high accuracy ,as we took out put in the form of probability, logistic regression gives reasonable percentage.
+ - []( ) logestic regression is giving 0.8 accuracy while random forest giving 0.95.even though random forest is giving high accuracy ,as we took out put in the form of probability, logistic regression gives reasonable percentage.
  - []( ) streamlit gives easiest built-in functions for making interfaces with python. 
 
 #### deployment 

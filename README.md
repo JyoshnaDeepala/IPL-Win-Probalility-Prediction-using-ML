@@ -6,7 +6,7 @@ This web application uses the same type of analysis to make predictions based on
 
 https://ipl-win-probability-predicto.herokuapp.com/
 
-helps in betting by pridicting the win probability of both teams using machine learning.
+helps in betting by predicting the win probability of both teams using machine learning.
 
 
 
